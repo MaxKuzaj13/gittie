@@ -7,3 +7,5 @@ def joke():
     print('Frostbite!')
 
     
+def add(): 
+    print("Hello")
