@@ -1,6 +1,2 @@
-
-
-
-
-
-
+def itroduce(): 
+    print("Hello")
